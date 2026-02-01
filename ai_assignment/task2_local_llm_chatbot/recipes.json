@@ -1,0 +1,18 @@
+[
+  {
+    "ingredients": ["egg", "onion"],
+    "recipe": "Egg Omelette with Onions"
+  },
+  {
+    "ingredients": ["potato", "onion"],
+    "recipe": "Aloo Onion Fry"
+  },
+  {
+    "ingredients": ["egg", "tomato"],
+    "recipe": "Egg Bhurji"
+  },
+  {
+    "ingredients": ["rice", "vegetables"],
+    "recipe": "Vegetable Fried Rice"
+  }
+]
